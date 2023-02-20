@@ -1,10 +1,5 @@
 # JavaFX - Upomínač narozenin
 
-Jednoduchá desktopová aplikace vytvořená pomocí JavaFX, kam si lze ukládat data narozenin přátel.
+Desktopová aplikace s využitím JavaFX a SceneBuilderu, kam si lze ukládat data narozenin přátel. Aplikace ukazuje nejbližší datum nastávajících narozenin a informace o osobě, které se týkají.
 
-Dále jsem zkoušel i jednodušší, jako:
-* jednoduchá kalkulačka, která umí sčítat, odečítat, násobit a dělit dvě čísla,
-* aplikace, která převede text na text s velkými písmeny,
-* aplikace, kde se zadá libovolný počet čísel oddělených mezerou a program je sečte, zobrazí nejmenší a největší číslo, průměr a podle výběru je seřadí buďto sestupně nebo vzestupně.
-
-Mám v plánu zkoušet další složitější projekty.
+![image](https://user-images.githubusercontent.com/119891009/220066094-b49587bf-a860-453b-ac36-54572ab10da0.png)
